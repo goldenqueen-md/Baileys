@@ -58,7 +58,7 @@
     "@types/jest": "^27.5.1",
     "@types/node": "^16.0.0",
     "@types/ws": "^8.0.0",
-    "conventional-changelog-cli": "^2.2    "node-cache": "^5.1.2",
+    "conventional-changelog-cli": "^2.2.2,    "node-cache": "^5.1.2",
     "eslint": "^8.0.0",
     "jest": "^27.0.6",
     "jimp": "^0.16.1",
